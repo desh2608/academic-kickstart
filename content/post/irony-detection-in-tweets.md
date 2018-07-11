@@ -1,6 +1,6 @@
 +++
 title = "Irony Detection in Tweets"
-date = 2018-07-04T13:40:06+05:30
+date = 2018-02-07T13:40:06+05:30
 draft = false
 
 # Tags and categories
