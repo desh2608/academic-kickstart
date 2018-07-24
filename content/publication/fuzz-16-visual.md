@@ -45,7 +45,7 @@ tags = ["fuzzy"]
 # Links (optional).
 url_pdf = "http://ieeexplore.ieee.org/document/7737735/"
 url_preprint = "preprint/fuzzieee-16-visual.pdf"
-url_code = "https://github.com/desh2608/crnn-relation-classification"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = "ppt/fuzzieee-16-visual.pptx"
