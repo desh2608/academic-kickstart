@@ -1,6 +1,6 @@
 +++
 title = "Theory of Deep Learning: Optimization"
-date = 2018-07-26T12:15:18+05:30
+date = 2018-07-26T11:15:18+05:30
 draft = false
 
 # Tags and categories

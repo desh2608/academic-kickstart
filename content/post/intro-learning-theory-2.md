@@ -43,7 +43,7 @@ The actual proof then becomes simply manipulating the expectation and supremum u
 
 Till now, we have only computed the bounds on the expectation of the set of loss functions $G$. We actually need to compute bounds on the general loss on the hypothesis class $H$, which assigns binary values to given samples. For this, we use the following lemma which is simple to prove.
 
-$$ \hat{\mathcal{R}\_S}(G) = \frac{1}{2}\hat{\mathcal{R}\_{S\_X}(G) $$
+$$ \hat{\mathcal{R}\_S} (G) = \frac{1}{2}\hat{\mathcal{R}\_{S\_X}}(G) $$
 
 From this and the earlier result, we easily arrive at an upper bound on the generalization error of the hypothesis class in terms of its Rademacher complexity.
 
