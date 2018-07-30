@@ -1,6 +1,6 @@
 +++
 title = "Theory of Deep Learning: Role of Depth"
-date = 2018-07-28T23:19:20+05:30
+date = 2018-07-28T23:00:20+05:30
 draft = false
 
 # Tags and categories
