@@ -63,7 +63,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "draj2@jhu.edu"
+  email = "desh.raj@jhu.edu"
   address = ""
   office_hours = ""
   phone = ""
@@ -226,7 +226,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:draj2@jhu.edu"
+    link = "mailto:desh.raj@jhu.edu"
 
   [[params.social]]
     icon = "twitter"

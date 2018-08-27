@@ -30,7 +30,7 @@ weight = 5
 
 # About
 
-I am a graduate student at [Johns Hopkins University](https://www.cs.jhu.edu/), working in the [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/). My research interests are in theoretical and applied machine learning, particularly unsupervised learning techniques for language.
+I am a graduate student at [Johns Hopkins University](https://www.cs.jhu.edu/), working in the [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/), advised by [Daniel Povey](http://www.danielpovey.com) and [Sanjeev Khudanpur](https://clsp.wse.jhu.edu/faculty-pages/sanjeev/). My research interests are in theoretical and applied machine learning, particularly unsupervised learning techniques for language.
 
 I graduated from IIT Guwahati in 2017 with a major in Computer Science. My [bachelor thesis]({{<ref "project/btp.md">}}) was on deep learning methods for relation extraction in clinical text, supervised by [Prof. Ashish Anand](http://www.iitg.ac.in/anand.ashish/index.html). 
 
