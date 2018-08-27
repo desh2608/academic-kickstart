@@ -123,7 +123,7 @@ $$ K(x,y) = \exp \left( - \frac{\lVert x-y \rVert}{\sigma} \right). $$
 
 * **Gaussian kernel:** Its mathematical formulation is
 
-$$ K(x,y) = \exp \left( - \frac{\lVert x-y \rVert}{2\sigma^2} \right). $$
+$$ K(x,y) = \exp \left( - \frac{\lVert x-y \rVert^2}{2\sigma^2} \right). $$
 
 Both the Laplacian and Gaussian kernels are examples of the [radial basis function](https://en.wikipedia.org/wiki/Radial_basis_function) kernels. The difference lies only in the parameter $\sigma$. Since the Gaussian depends on the square of this parameter, it is more sensitive to changes in $\sigma$ than the Laplacian. 
 

@@ -61,23 +61,7 @@ But how do we quantify small? In other words, *how do we determine a good learni
 
 > **Claim ([Nesterov 1998](https://rd.springer.com/book/10.1007%2F978-1-4419-8853-9)):** If we choose $\eta = \frac{1}{2\beta}$, we can achieve $|\nabla f|<\epsilon$ in number of steps proportional to $\frac{\beta}{\epsilon^2}$.
 
-**Proof:** First, let us define *smoothness* as given [here](https://ee227c.github.io/notes/ee227c-notes.pdf) (see Definition 2.7). A continuously differentiable (i.e. first and second derivatives exist) is $\beta$-smooth if the gradient is $\beta$-Lipschitz, i.e.
-
-$$ \lVert \nabla f(x) - \nabla f(y) \rVert \leq \beta \lVert x - y \rVert. $$
-
-Now, taking $z = y - \frac{1}{2\beta}(\nabla f(y) - \nabla f(x))$, we can write
-
-$$ \begin{align} f(x) - f(y) &= f(x) - f(z) + f(z) - f(y) \\\\\\ &\leq \nabla f(x)^T (x-z) + \nabla f(y)^T (y-z) \\\\\\ &= \nabla f(x)^T (x-y) + (\nabla f(x) - \nabla f(y))^T(y-z) \\\\\\ &= \nabla f(x)^T (x-y) + (\nabla f(x) - \nabla f(y))^T (\frac{1}{2\beta}(\nabla f(y) - \nabla f(x))) \\\\\\ &=  \nabla f(x)^T (x-y) - \frac{1}{2\beta}\lVert \nabla f(x) - \nabla f(y) \rVert^2 \\\\\\ &\leq \nabla f(x)^T (x-y) - \frac{\beta}{2}\lVert x-y \rVert^2 \end{align} $$
-
-Here, the inequality in the second step comes from the property of convex functions, in the fourth step we have substituted $z$, and in the final step we have used the definition of $\beta$-Lipschitz. Reversing the sign of the inequality, we get
-
-$$ f(x) - f(y) \geq -\nabla f(x)^T (y-x) - \frac{\beta}{2}\lVert x-y \rVert^2. $$
-
-Now, take $x = \theta\_t$ and $y = \theta\_{t+1}$ to get
-
-$$ \begin{align} f(\theta\_t) - f(\theta\_{t+1}) &\geq -\nabla f(\theta\_t)(\theta\_{t+1} - \theta\_t) - \frac{\beta}{2}\lVert \theta\_t - \theta\_{t+1} \rVert^2 \\\\\\ &= \eta |\nabla\_t|^2 - \frac{1}{2}\beta\eta^2 |\nabla\_t|^2 = \frac{1}{2\beta}|\nabla\_t|^2. \end{align} $$
-
-So a single update reduces the function value by at least $\frac{\epsilon^2}{2\beta}$. Therefore, it would take $\mathcal{O}(\frac{\beta}{\epsilon^2})$ steps to arrive at a critical point.
+**Proof:** See the proof of Lemma 2.8 [here](https://ee227c.github.io/notes/ee227c-notes.pdf) (see Definition 2.7). So a single update reduces the function value by at least $\frac{\epsilon^2}{2\beta}$. Therefore, it would take $\mathcal{O}(\frac{\beta}{\epsilon^2})$ steps to arrive at a critical point.
 
 #### Evading saddle points
 
