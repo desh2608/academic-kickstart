@@ -19,7 +19,7 @@ caption = ""
 preview = true
 
 +++
-I was trying to find a consolidated list of papers in machine learning (ICML, NIPS) and natural language processing (ACL, EMNLP, NAACL) published after 2000, which are held in some regard, perhaps by winning prizes such as Test-of-time paper at these major conferences. However, there seems to be no such list, or if it is, it's hidden too deep and it may just be quicker to prepare a similar list of my own. I will add the papers in reverse chronological order of their publication year.
+I was trying to find a consolidated list of papers in machine learning (ICML, NIPS, AAAI, SIGIR) and natural language processing (ACL, EMNLP, NAACL) published after 2000, which are held in some regard, perhaps by winning prizes such as Test-of-time paper at these major conferences. However, there seems to be no such list, or if it is, it's hidden too deep and it may just be quicker to prepare a similar list of my own. I will add the papers in reverse chronological order of their publication year.
 
 ## 2009
 
@@ -50,6 +50,8 @@ I was trying to find a consolidated list of papers in machine learning (ICML, NI
 ## 2006
 
 * [Dynamic topic models](https://icml.cc/2016/awards/dtm.pdf). David Blei and John Lafferty. ICML 2006. *Test-of-time award at ICML 2016*
+
+* [Improving web search ranking by incorporating user behavior information](https://dl.acm.org/citation.cfm?id=1148177). Agichtein et al. SIGIR 2006. *Test-of-time award at SIGIR 2018*
 
 ## 2005
 
@@ -103,6 +105,8 @@ I was trying to find a consolidated list of papers in machine learning (ICML, NI
 
 * [Reducing Multiclass to Binary: A Unifying Approach for Margin Classifiers](http://www.jmlr.org/papers/volume1/allwein00a/allwein00a.pdf). Erin Allwein, Robert Schapire, and Yoram Singer. ICML 2000. *Best 10 year paper award at ICML 2000*
 
+* [PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment](https://www.aaai.org/Papers/AAAI/2000/AAAI00-069.pdf). Natalya Roy and Mark Musen. AAAI 2000. *Classic paper award at AAAI 2018*
+
 ***
 
 Some random observations:
@@ -112,3 +116,7 @@ Some random observations:
 3. I have no idea why BLEU won. It was supposed to be an "understudy," which is pretty clear from its name. The fact that it is still being used as an evaluation metric speaks more of a general failure to construct better metrics than of its strength.
 4. Since the papers are from before 2010, deep learning is conspicuous by its absence. In fact, Collobert and Weston's ICML'08 paper on a unified architecture for language is the only such paper.
 5. Ali Rahimi's ["ML is alchemy" talk at NIPS'17](https://www.livescience.com/62495-rahimi-machine-learning-ai-alchemy.html) got a lot of attention, probably much more than his paper on random features.
+
+## Other similar lists
+
+* [Best paper award winners in Computer Science](https://jeffhuang.com/best_paper_awards.html)
