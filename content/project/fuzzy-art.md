@@ -1,7 +1,7 @@
 +++
 title = "Fuzzy adaptive resonance theory (ART) clustering"
 date = 2016-02-03T17:01:11+05:30
-draft = false
+draft = true
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

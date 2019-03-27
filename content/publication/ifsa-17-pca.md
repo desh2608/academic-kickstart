@@ -1,7 +1,7 @@
 +++
 title = "Principal component analysis approach in selecting type-1 and type-2 fuzzy membership functions for high-dimensional data"
 date = 2017-06-28T15:02:56+05:30
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Desh Raj", "Aditya Gupta", "Bhuvnesh Garg", "Kenil Tanna", "Frank Chung-Hoon Rhee"]

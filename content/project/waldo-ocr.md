@@ -1,7 +1,7 @@
 +++
 title = "Waldo: A system for optical character recognition"
 date = 2018-07-03T16:56:46+05:30
-draft = false
+draft = true
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

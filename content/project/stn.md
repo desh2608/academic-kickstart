@@ -1,7 +1,7 @@
 +++
 title = "Sptial Transformer Networks"
 date = 2016-11-20T17:00:42+05:30
-draft = false
+draft = true
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

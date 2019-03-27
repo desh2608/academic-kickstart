@@ -1,5 +1,6 @@
 +++
 title = "Visual analysis and representations of type-2 fuzzy membership functions"
+draft = true
 
 # Date first published.
 date = "2016-07-30"

@@ -1,7 +1,7 @@
 +++
 title = "Monitoring production line performance to reduce failures"
 date = 2017-03-31T17:01:52+05:30
-draft = false
+draft = true
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
