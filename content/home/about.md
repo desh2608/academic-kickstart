@@ -34,6 +34,6 @@ I am a graduate student at [Johns Hopkins University](https://www.cs.jhu.edu/), 
 
 I graduated from IIT Guwahati in 2017 with a major in Computer Science. My [bachelor thesis]({{<ref "project/btp.md">}}) was on deep learning methods for relation extraction in clinical text, supervised by [Prof. Ashish Anand](http://www.iitg.ac.in/anand.ashish/index.html). 
 
-When I'm not doing ML, I like to work out, swim, play the guitar, and [read fiction](https://medium.com/deshs-book-reviews). 
+When I'm not doing ML, I like to work out, swim, play the guitar, and [read fiction](https://www.goodreads.com/review/list/62772844-desh-raj?shelf=read&sort=date_read). 
 
 **{{% staticref "files/DeshRaj.pdf" %}}Link to Resume{{% /staticref %}}**
