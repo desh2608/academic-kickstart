@@ -5,7 +5,7 @@ title = "Using ASR methods for OCR"
 date = "2019-05-22"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ashish Arora", "Chun Chieh Chang", "Babak Rekabdar", "Daniel Povey", "David Etter", "Desh Raj", "Hossein Hadian", "Jan Trmal", "Paola Garcia", "Shinji Watanabe", "Vimal Manohar", "Yiwen Shao", "Sanjeev Khudanpur"]
+authors = ["Ashish Arora", "Chun Chieh Chang", "Babak Rekabdar", "Daniel Povey", "David Etter", "**Desh Raj**", "Hossein Hadian", "Jan Trmal", "Paola Garcia", "Shinji Watanabe", "Vimal Manohar", "Yiwen Shao", "Sanjeev Khudanpur"]
 
 # Publication type.
 # Legend:

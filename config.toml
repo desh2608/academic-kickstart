@@ -51,7 +51,7 @@ enableGitInfo = true
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "playfair"
+  font = "classic"
 
   # Your details.
   name = "Desh Raj"
@@ -231,7 +231,7 @@ enableGitInfo = true
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "https://twitter.com/raj_desh26"
+    link = "https://twitter.com/rdesh26"
 
   [[params.social]]
     icon = "google-scholar"

@@ -5,7 +5,7 @@ title = "Learning local and global context using a convolutional recurrent netwo
 date = "2017-08-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Desh Raj", "Sunil Kumar Sahu", "Ashish Anand"]
+authors = ["**Desh Raj**", "Sunil Kumar Sahu", "Ashish Anand"]
 
 # Publication type.
 # Legend:
@@ -20,10 +20,10 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In the SIGNLL *Conference on Computational Natural Language Learning* (CoNLL) 2017"
-publication_short = "In *CoNLL*"
+publication_short = "*CoNLL 2017*"
 
 # Abstract and optional shortened version.
-abstract = "The task of relation classification in the biomedical domain is complex due to the presence of samples obtained from heterogeneous sources such as research articles, discharge summaries, or electronic health records. It is also a constraint for classifiers which employ manual feature engineering. In this paper, we propose a convolutional recurrent neural network (CRNN) architecture that combines RNNs and CNNs in sequence to solve this problem. The rationale behind our approach is that CNNs can effectively identify coarse-grained local features in a sentence, while RNNs are more suited for long-term dependencies. We compare our CRNN model with several baselines on two biomedical datasets, namely the i2b22010 clinical relation extraction challenge dataset, and the SemEval-2013 DDI extraction dataset. We also evaluate an attentive pooling technique and report its performance in comparison with the conventional max pooling method. Our results indicate that the proposed model achieves state-of-the-art performance on both datasets."
+abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -36,7 +36,7 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ["btp"]
+projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -66,7 +66,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "conll-17-learning.png"
-caption = "Architecture of the CRNN-Att model"
+image = ""
+caption = ""
 
 +++

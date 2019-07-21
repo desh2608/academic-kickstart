@@ -4,7 +4,7 @@ date = 2018-01-15T15:02:35+05:30
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Shakaiba Majheed", "Aditya Gupta", "Desh Raj", "Frank Chung-Hoon Rhee"]
+authors = ["Shakaiba Majheed", "Aditya Gupta", "**Desh Raj**", "Frank Chung-Hoon Rhee"]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,7 @@ publication = "Information Sciences"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Conventional unsupervised learning algorithms require knowledge of the desired number of clusters beforehand. Even if such knowledge is not required in advance, empirical selection of the parameter values may limit the adaptive capability of the algorithm, thereby restricting the clustering performance. An inherent uncertainty in the number and size of clusters requires integration of fuzzy sets into a clustering algorithm. In this paper, we propose a type-1 (T1) fuzzy ART method that adaptively selects the vigilance parameter value, which is critical in determining the network dynamics. This results in improved clustering performance due to the added flexibility in dynamic selection of the number of clusters with the use of fuzzy sets. To further manage the uncertainty associated with memberships, we extend the proposed T1 fuzzy ART with adaptive vigilance to an interval type-2 (IT2) fuzzy ART method. Type reduction and defuzzification are then performed using the KM algorithm to obtain a defuzzified vigilance parameter value. We evaluate our proposed methods on several data sets to validate their effectiveness."
+abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)

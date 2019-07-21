@@ -4,7 +4,7 @@ date = 2017-04-01T15:02:18+05:30
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Desh Raj", "Aditya Gupta", "Bhuvnesh Garg", "Kenil Tanna", "Frank Chung-Hoon Rhee"]
+authors = ["**Desh Raj**", "Aditya Gupta", "Bhuvnesh Garg", "Kenil Tanna", "Frank Chung-Hoon Rhee"]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,7 @@ publication = "IEEE Transactions on Fuzzy Systems"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Due to the numerous applications that utilize different types of fuzzy membership functions (MFs), it may sometimes be difficult to choose an appropriate MF for a particular application. In this paper, we establish preliminary guidelines to direct this selection by proposing a three-stage method. In the “forward” stage, different MFs such as crisp MFs, type-1 (T1) fuzzy MFs, and type-2 (T2) fuzzy MFs are generated from multidimensional data sets. Next, in the “reverse” stage, data is generated back from these MFs by considering different bin sizes. In doing so, various data sets may be generated for different applications which require fuzzy data. Finally, for the “similarity analysis” stage, we propose an iterative algorithm that makes use of the results of Wilcoxon Signed Rank (WSR) and Wilcoxon Rank Sum (WRS) tests to compare the original data and the generated data. From the results of these tests, recommendations concerning the suitability of MFs for a specific application may be suggested by observing the accuracy of representation and the requirements of the application. With this analysis, the objective is to gain insight on when T2 fuzzy sets may be considered to outperform T1 fuzzy sets, and vice versa. Several examples are provided using synthetic and real data to validate the iterative algorithm for data sets in various dimensions."
+abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -35,7 +35,7 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ["fuzzy-wmbs"]
+projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -43,7 +43,7 @@ tags = ["fuzzy"]
 
 # Links (optional).
 url_pdf = "http://ieeexplore.ieee.org/document/7888454/"
-url_preprint = "preprint/tfs-16-analysis.pdf"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
