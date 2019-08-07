@@ -15,7 +15,7 @@ selected: true
 
 # Links (optional).
 url_pdf: "https://homepages.inf.ed.ac.uk/amos/publications/Storkey2009TrainingTestDifferent.pdf"
-url_slides: "ppt/joint_ctc_attention.pdf"
+url_slides: "ppt/dataset_shift.pdf"
 url_video: ""
 url_code: ""
 
